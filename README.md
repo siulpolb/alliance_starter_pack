@@ -2,7 +2,7 @@
 
 ## Bienvenido (a)
 
-Bienvenido (a), como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí, así que ponemos a tu disposición una pequeña guia con la experiencia de varías personas que han pasado por esto.
+Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí, así que ponemos a tu disposición una pequeña guia con la experiencia de varías personas que han pasado por esto.
 
 ## Primero pasos
 
@@ -13,10 +13,12 @@ Bienvenido (a), como tu todos hemos empezado sin tener mucha idea de como estan 
    Es importante que revises cada vez que te lo manden y hagas los cambios pertinentes, muchas veces anotan tecnologías que no conoces o no son tu fuerte, quitalas por que los vendors probablemente te hablen para preguntar de ellas y no vas a saber que contestar. También deberás hacer que coincida tu linkedIn con tu CV.
 5. Comenzarás a recibir llamadas.
    Usualmente los vendors son hindus y cuesta mucho trabajo entenderles al principio, descuida te acostumbraras.
-   Normalmente las primeras llamadas son para screening, te preguntan un poco acerca de tu experiencias y que tecnologías ocupas, después te agendarán entrevistas por skype o por zoom, y en algunos casos face to face (la empresa siempre se hace cargo de los gastos)
+   Normalmente las primeras llamadas son para screening, te preguntan un poco acerca de tu experiencia y que tecnologías ocupas, después te agendarán entrevistas por skype o por zoom, y en algunos casos face to face (la empresa siempre se hace cargo de los gastos)
 6. Si todo sale bien consigues el trabajo
 
 ## Ya que tienes el trabajo
+
+	Próximamente
 
 ## Notas
 
@@ -50,4 +52,4 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ### GIT
 
 * [Lo más básico](http://rogerdudler.github.io/git-guide/index.es.html)
-* [Interactico de branching](https://learngitbranching.js.org)
+* [Interactivo de branching](https://learngitbranching.js.org)
