@@ -46,3 +46,8 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ### SQL
 
 * [Preguntas de entrevista](https://www.toptal.com/sql/interview-questions)
+
+### GIT
+
+* [Lo más básico](http://rogerdudler.github.io/git-guide/index.es.html)
+* [Interactico de branching](https://learngitbranching.js.org)
