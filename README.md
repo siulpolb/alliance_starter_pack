@@ -20,12 +20,16 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 
 	Próximamente
 
-## Notas
+## Consejos
 
 * Deja de convertir los precios a pesos, solo hace que te duela el corazón, si puedes paga todo con tu tarjeta de dólares
 * A la gente de la empresa siempre vas a tener que estar molestando para que te den tus cheques (equipaje, visa, mensual), no por que no quieran dartelo, si no por que siempre se les olvida.
 * Es importante que nunca le des a nadie tu SSN completo, pero esta bien compartir los 4 últimos dígitos.
 * Procura no fumar en las guest houses por que los vecinos ponen quejas.
+* Saca lo antes posible una secured card, para que vayas incrementando tu credit score. Te ayudará en las rentas de casa o cualquier préstamo que quieras sacar en Estados Unidos.
+* Tus quincenas son jineteadas, es decir nunca son pagadas a tiempo, se retrasan en promedio 3 a 4 días. Te sugiero enviar correo a Vamsi y Uttam para recordarles que te paguen a tiempo. 
+* En cuanto tengas proyecto revisa con los indios el llenado de tu forma w4 y tu seguro de gastos médicos. Si no lo revisas antes de irte a tu proyecto lo más probable es que no tengas seguro por un buen rato. Mínimo dos o tres mes (a menos de que ya se hayan puesto las pilas)
+* Aprovecha que estas en Pleasanton y sin "trabajo" y has tu examen escrito de tu licencia de manejo, has la cita en el. DMV desde que llegues por que tardan en promedio 3 semanas en tener citas disponibles.
 
 ## Recursos
 
@@ -53,3 +57,8 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 
 * [Lo más básico](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Interactivo de branching](https://learngitbranching.js.org)
+
+
+## Datos Culturales
+
+* En Estados Unidos no utilizan bote de papel en el baño.
