@@ -6,7 +6,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 
 ## Primero pasos
 
-1. Te llevarán a trámitar tu [SSN] (https://www.ssa.gov/ssnumber/). Este es un identificador relacionado a tu información como trabajador en los Estados Unidos (experiencia, salarios, etc.)  y debes de ser precavido al manejar este dato. Si no tienes tu SSN, no te puede pagar
+1. Te llevarán a trámitar tu [SSN](https://www.ssa.gov/ssnumber/). Este es un identificador relacionado a tu información como trabajador en los Estados Unidos (experiencia, salarios, etc.)  y debes de ser precavido al manejar este dato. Si no tienes tu SSN, no te puede pagar
 2. Te darán tu primer cheque y con el te llevarán a abrir tu cuenta de banco
 3. Te darán un télefono con un número de EUA para recibir las llamadas de los vendors
 4. Te darán un archivo donde pusieron todo tu CV con algunas cosas de más. Es importante que revises cada vez que te lo manden y hagas los cambios pertinentes, muchas veces anotan tecnologías que no conoces o no son tu fuerte, quitalas por que los vendors probablemente te hablen para preguntar de ellas y no vas a saber que contestar. También deberás hacer que coincida tu linkedIn con tu CV
@@ -21,8 +21,8 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * Oferta laboral de AllianceIT. Son las cartas originales que te enviaron por correo a tu domicilio en México
     * Non-federal direct deposit enrollment request form [muestra](https://www.bankofamerica.com/content/documents/deposits/service/pdf/docrepo/DD_enrollment_form_Engl_Spa_final.pdf). Este formulario sirve para que AllianceIT te pueda realizar las transferencias a tu cuenta bancaria (no mas cheques sueltos)
 2. El boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
-    * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines] (https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines] (https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
-    * Por lo general, las reservaciones son hechas en la cadena de hoteles de [Extension Stay America] (https://www.extendedstayamerica.com/) y te piden los datos de tu tarjeta de débito/crédito por si hay algún daño al inmueble (no es posible fumar y la desventaja es que en algunos de estos hoteles se escucha rudio de los otros cuarto, if you know what I mean...)
+    * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines] (https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines](https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
+    * Por lo general, las reservaciones son hechas en la cadena de hoteles de [Extended Stay America](https://www.extendedstayamerica.com/) y te piden los datos de tu tarjeta de débito/crédito por si hay algún daño al inmueble (no es posible fumar y la desventaja es que en algunos de estos hoteles se escucha rudio de los otros cuarto, if you know what I mean...)
     * Si necesitas mas tiempo para quedarte en el hotel puedes pedirle a Vamsi y Uttam que te extiendan la reservación, cualquier cargo indebido que hagan a tu tarjeta te lo ayudan a resolver
     * Procura no quedarte mas de una quincena en el hotel ya que de lo contrario, te empezaran a descontar de tu salario negociado la estancia, a menos de que compruebes que la disponibilidad de algun lugar donde viviras demorara para que te mudes
 3. Reporte de actividades semanales
@@ -53,14 +53,15 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 
 ### Conceptos generales
 
-* [Microservicios] (https://martinfowler.com/articles/microservices.html)
-* [Unit tests vs. Integration tests] (https://www.youtube.com/watch?v=vqAaMVoKz1c)
+* [Microservicios](https://martinfowler.com/articles/microservices.html)
+* [Unit tests vs. Integration tests](https://www.youtube.com/watch?v=vqAaMVoKz1c)
+* [REST API](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
 
 ### Java
 
-* [Novedades de la version 8 de Java] (https://www.journaldev.com/2389/java-8-features-with-examples)
-* [Data Structures - Youtube video series] (https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
-* [Conceptos Basicos de Unit Testing con jUnit - Udemy] (https://www.udemy.com/learn-by-example-junit/)
+* [Novedades de la version 8 de Java](https://www.journaldev.com/2389/java-8-features-with-examples)
+* [Data Structures - Youtube video series](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
+* [Conceptos Basicos de Unit Testing con jUnit - Udemy](https://www.udemy.com/learn-by-example-junit/)
 
 ### JavaScript
 * [37 Essential JavaScript Interview Questions from Toptal](https://www.toptal.com/javascript/interview-questions)
@@ -90,4 +91,4 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * En Estados Unidos no utilizan bote de papel en el baño
 * Procura no decir la palabra 'negro' fuera de un contexto donde estes con latinos o con gente de confianza. La palabra [nigga](https://www.urbandictionary.com/define.php?term=nigga) o 'n'-word (que suena bastante parecido a negro) es una palabra que ofende bastante y hasta te pueden llegar a demandar por que es considerada una expresión racista
 * Saludar de beso a las mujeres puede incomodarles puesto que no son tan abiertas como lo somos en latinoamerica
-* Decir gracias debe de ser conciso y corto, otra manera puede ser interpretado como sarcasmo y hasta lo puede tomar como molestia [referencia aqui] (https://youtu.be/MHWbqZbd98k)
+* Decir gracias debe de ser conciso y corto, otra manera puede ser interpretado como sarcasmo y hasta lo puede tomar como molestia [referencia aqui](https://youtu.be/MHWbqZbd98k)
