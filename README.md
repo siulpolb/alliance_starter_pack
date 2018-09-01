@@ -15,12 +15,17 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 
 ## Ya que tienes el trabajo
 
-1. El boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
+1. Llenado de forma [W4](https://www.irs.gov/es/forms-pubs/about-form-w4). Esta forma te la piden para exención de retención de impuestos
+2. Retención de documentos. La consultora te pedira que le dejes los siguientes documentos en original, por lo que procura pedirles una copia para que tu las tengas por cualquier eventualidad futura
+    * Forma [I-94](https://i94.cbp.dhs.gov/I94/#/home). La imprimes desde internet. Contiene el registro de tu entrada al país. Verifica que tu nombre este correcto de acuerdo a los datos de tu pasaporte, puesto que esta forma es solicitada cuando vayas a tramitar el Real State o la Licencia de Manejo (DL)
+    * Oferta laboral de AllianceIT. Son las cartas originales que te enviaron por correo a tu domicilio en México
+    * Non-federal direct deposit enrollment request form [muestra](https://www.bankofamerica.com/content/documents/deposits/service/pdf/docrepo/DD_enrollment_form_Engl_Spa_final.pdf). Este formulario sirve para que AllianceIT te pueda realizar las transferencias a tu cuenta bancaria (no mas cheques sueltos)
+2. El boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
     * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines] (https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines] (https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
     * Por lo general, las reservaciones son hechas en la cadena de hoteles de [Extension Stay America] (https://www.extendedstayamerica.com/) y te piden los datos de tu tarjeta de débito/crédito por si hay algún daño al inmueble (no es posible fumar y la desventaja es que en algunos de estos hoteles se escucha rudio de los otros cuarto, if you know what I mean...)
     * Si necesitas mas tiempo para quedarte en el hotel puedes pedirle a Vamsi y Uttam que te extiendan la reservación, cualquier cargo indebido que hagan a tu tarjeta te lo ayudan a resolver
     * Procura no quedarte mas de una quincena en el hotel ya que de lo contrario, te empezaran a descontar de tu salario negociado la estancia, a menos de que compruebes que la disponibilidad de algun lugar donde viviras demorara para que te mudes
-2. Reporte de actividades semanales
+3. Reporte de actividades semanales
     * Por lo general a tu PM, manager o leader es quien te indica como debes de llenar el reporte de actividades interno. Por lo general son 8 horas diarias que tu divides en tareas relacionadas con tu perfil de desarrollador
     * Adicionalmente, puede que el vendor te pida llenar un formato más para la consultora que maneja la cuenta del cliente. Pregunta directamente como le debes de entregar a ellos el reporte de actividades
     * Si no te piden nada de lo anterior, pregunta directamente a Uttam o Vamsi, para aclaración de dudas puesto que no siempre es igual en como manejan el reporta de actividades con cada vendor
@@ -51,11 +56,14 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Microservicios] (https://martinfowler.com/articles/microservices.html)
 * [Unit tests vs. Integration tests] (https://www.youtube.com/watch?v=vqAaMVoKz1c)
 
-### JAVA
+### Java
 
 * [Novedades de la version 8 de Java] (https://www.journaldev.com/2389/java-8-features-with-examples)
 * [Data Structures - Youtube video series] (https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [Conceptos Basicos de Unit Testing con jUnit - Udemy] (https://www.udemy.com/learn-by-example-junit/)
+
+### JavaScript
+* [37 Essential JavaScript Interview Questions from Toptal](https://www.toptal.com/javascript/interview-questions)
 
 ### Python
 
@@ -80,5 +88,6 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ## Datos Culturales
 
 * En Estados Unidos no utilizan bote de papel en el baño
+* Procura no decir la palabra 'negro' fuera de un contexto donde estes con latinos o con gente de confianza. La palabra [nigga](https://www.urbandictionary.com/define.php?term=nigga) o 'n'-word (que suena bastante parecido a negro) es una palabra que ofende bastante y hasta te pueden llegar a demandar por que es considerada una expresión racista
 * Saludar de beso a las mujeres puede incomodarles puesto que no son tan abiertas como lo somos en latinoamerica
 * Decir gracias debe de ser conciso y corto, otra manera puede ser interpretado como sarcasmo y hasta lo puede tomar como molestia [referencia aqui] (https://youtu.be/MHWbqZbd98k)
