@@ -13,6 +13,12 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 5. Comenzarás a recibir llamadas. Usualmente los vendors son hindus y cuesta mucho trabajo entenderles al principio, descuida te acostumbraras. Normalmente las primeras llamadas son para screening, te preguntan un poco acerca de tu experiencia y que tecnologías ocupas, después te agendarán entrevistas por skype o por zoom, y en algunos casos face to face (la empresa siempre se hace cargo de los gastos)
 6. Si todo sale bien consigues el trabajo
 
+### Nota sobre las entrevitas
+* Solo puedes aceptar ofertas del tipo CorpToCorp (C2C), otro tipo no es posible
+* Cada aplicación realizara a alguna posición disponible por los vendors puede demorar o ser demasiado rapido, intenta organizarte para darle seguimiento a cada una de estas
+* Si te preguntan por el Rate, indicales que lo tienen que revisar con la gente de Alliance IT
+* Si te piden los 4 útlimos números de tu SSN y aun no te ha llegado, menciona que no te sientes confortable para compartir información sensible y prefieres omitiar dar tu dato (no pasa nada, esto no debe de influir en el resultado de tu proceso y recuerda no dar el SSN completo a cualquier persona)
+
 ## Ya que tienes el trabajo
 
 1. Llenado de forma [W4](https://www.irs.gov/es/forms-pubs/about-form-w4). Esta forma te la piden para exención de retención de impuestos
@@ -20,15 +26,20 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * Forma [I-94](https://i94.cbp.dhs.gov/I94/#/home). La imprimes desde internet. Contiene el registro de tu entrada al país. Verifica que tu nombre este correcto de acuerdo a los datos de tu pasaporte, puesto que esta forma es solicitada cuando vayas a tramitar el Real State o la Licencia de Manejo (DL)
     * Oferta laboral de AllianceIT. Son las cartas originales que te enviaron por correo a tu domicilio en México
     * Non-federal direct deposit enrollment request form [muestra](https://www.bankofamerica.com/content/documents/deposits/service/pdf/docrepo/DD_enrollment_form_Engl_Spa_final.pdf). Este formulario sirve para que AllianceIT te pueda realizar las transferencias a tu cuenta bancaria (no mas cheques sueltos)
-2. El boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
+3, Si te asignaron proyecto en bayarea, Uttam te dara posibilidad de quedarte en la casa de huespedes por un tiempo mas en lo que consigues un lugar para vivir que es de lo primero que tienes que resolver. Ten en cuenta que el costo de vida es ridiculamente alto y a pesar de que te pueden asignar un bono adicional para poder costear todos esos gastos, ten en cuenta que hay otros servicios que se pagan aparte como electricidad, agua, drenaje, internet, transporte, etc.
+4. Si te asignaron proyecto fuera de California, en este caso el boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
     * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines] (https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines](https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
     * Por lo general, las reservaciones son hechas en la cadena de hoteles de [Extended Stay America](https://www.extendedstayamerica.com/) y te piden los datos de tu tarjeta de débito/crédito por si hay algún daño al inmueble (no es posible fumar y la desventaja es que en algunos de estos hoteles se escucha rudio de los otros cuarto, if you know what I mean...)
     * Si necesitas mas tiempo para quedarte en el hotel puedes pedirle a Vamsi y Uttam que te extiendan la reservación, cualquier cargo indebido que hagan a tu tarjeta te lo ayudan a resolver
     * Procura no quedarte mas de una quincena en el hotel ya que de lo contrario, te empezaran a descontar de tu salario negociado la estancia, a menos de que compruebes que la disponibilidad de algun lugar donde viviras demorara para que te mudes
-3. Reporte de actividades semanales
+5. Reporte de actividades semanales
     * Por lo general a tu PM, manager o leader es quien te indica como debes de llenar el reporte de actividades interno. Por lo general son 8 horas diarias que tu divides en tareas relacionadas con tu perfil de desarrollador
     * Adicionalmente, puede que el vendor te pida llenar un formato más para la consultora que maneja la cuenta del cliente. Pregunta directamente como le debes de entregar a ellos el reporte de actividades
     * Si no te piden nada de lo anterior, pregunta directamente a Uttam o Vamsi, para aclaración de dudas puesto que no siempre es igual en como manejan el reporta de actividades con cada vendor
+6. ¿Donde buscar un buen lugar para vivir? Intenta preguntar referencias por tus colegas de trabajo, adicionalmente, los siguientes sitios te pueden ayudar a tomar una decisión
+    * [apartments.com](https://www.apartments.com/)
+    * [trulia.com](https://www.trulia.com/)
+    * Redes sociales como grupos en Facebook o CraigList, aunque debes de ser cuidadoso en buscar una opción en estos lugares puesto que corres mas riesgo de que te defrauden con ofertas de cuartos, aunque tambien puedes encontrar algo decente.
 
 ## Consejos
 
@@ -40,7 +51,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 * Tus quincenas son jineteadas, es decir nunca son pagadas a tiempo, se retrasan en promedio 3 a 4 días. Te sugiero enviar correo a Vamsi y Uttam para recordarles que te paguen a tiempo
 * En cuanto tengas proyecto revisa con los indios el llenado de tu forma w4 y tu seguro de gastos médicos. Si no lo revisas antes de irte a tu proyecto lo más probable es que no tengas seguro por un buen rato. Mínimo dos o tres mes (a menos de que ya se hayan puesto las pilas)
 * Aprovecha que estas en Pleasanton y sin "trabajo" y has tu examen escrito de tu licencia de manejo, has la cita en el. DMV desde que llegues por que tardan en promedio 3 semanas en tener citas disponibles
-* Si por alguna razón, tienes que regresar a México procura que no sea algo urgente ni importante. Ya que de lo contrario, Uttam te pedira que te quedes alla y tomes las llamadas aunque no te pagara el salario temporal completo que te daba cuando buscabas proyecto en Pleasanton
+* Si por alguna razón, tienes que regresar a México procura que no sea para algo urgente ni importante. Ya que de lo contrario, Uttam te pedira que te quedes alla y tomes las llamadas aunque no te pagara el salario temporal completo que te daba cuando buscabas proyecto en Pleasanton y en el peor de los casos, te dara las gracias
 * Para conseguir proyecto, todo depende de ti. Ya pasaste el primer filtro que es venir a los Estados Unidos, busca referencias con tus colegas, y nunca pares de aprender. El mercado de trabajo de nuestra área es demasiado cambiante y lo pero que puedes hacer es no actualizarte al dia
 
 ## Recursos
@@ -50,6 +61,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ### Varios
 
 * En el repo hay un archivo que se llama contactDetails.docx, conviene llenarlo y tenerlo a la mano, siempre te piden esos datos en los correos
+* En este [repo](https://github.com/kamranahmedse/developer-roadmap) se muestra un diagrama mantenido por la comunidad en Github en el cual se especifican las competencias actuales para ser un Front-end, Back-end Developer o DevOps (por lo general se mantiene actualizado)
 
 ### Conceptos generales
 
@@ -62,6 +74,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Novedades de la version 8 de Java](https://www.journaldev.com/2389/java-8-features-with-examples)
 * [Data Structures - Youtube video series](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [Conceptos Basicos de Unit Testing con jUnit - Udemy](https://www.udemy.com/learn-by-example-junit/)
+* [Spring Tutorial series](https://www.baeldung.com/spring-tutorial)
 
 ### JavaScript
 * [37 Essential JavaScript Interview Questions from Toptal](https://www.toptal.com/javascript/interview-questions)
@@ -71,6 +84,9 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Preguntas de entrevista](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 * [Preguntas de entrevista 1](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6)
 * [Automatización en python](https://automatetheboringstuff.com/)
+
+### Android
+* [Codepath - Android Guides](https://guides.codepath.com/android)
 
 ### AWS
 
