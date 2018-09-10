@@ -26,9 +26,9 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * Forma [I-94](https://i94.cbp.dhs.gov/I94/#/home). La imprimes desde internet. Contiene el registro de tu entrada al país. Verifica que tu nombre este correcto de acuerdo a los datos de tu pasaporte, puesto que esta forma es solicitada cuando vayas a tramitar el Real State o la Licencia de Manejo (DL)
     * Oferta laboral de AllianceIT. Son las cartas originales que te enviaron por correo a tu domicilio en México
     * Non-federal direct deposit enrollment request form [muestra](https://www.bankofamerica.com/content/documents/deposits/service/pdf/docrepo/DD_enrollment_form_Engl_Spa_final.pdf). Este formulario sirve para que AllianceIT te pueda realizar las transferencias a tu cuenta bancaria (no mas cheques sueltos)
-3, Si te asignaron proyecto en bayarea, Uttam te dara posibilidad de quedarte en la casa de huespedes por un tiempo mas en lo que consigues un lugar para vivir que es de lo primero que tienes que resolver. Ten en cuenta que el costo de vida es ridiculamente alto y a pesar de que te pueden asignar un bono adicional para poder costear todos esos gastos, ten en cuenta que hay otros servicios que se pagan aparte como electricidad, agua, drenaje, internet, transporte, etc.
+3. Si te asignaron proyecto en bay area(SF y alrededores), Uttam te dara posibilidad de quedarte en la casa de huespedes por un tiempo mas en lo que consigues un lugar para vivir que es de lo primero que tienes que resolver. Ten en cuenta que el costo de vida es ridiculamente alto y a pesar de que te pueden asignar un bono adicional para poder costear todos esos gastos, ten en cuenta que hay otros servicios que se pagan aparte como electricidad, agua, drenaje, internet, transporte, etc.
 4. Si te asignaron proyecto fuera de California, en este caso el boleto de avión y hospedaje por una semana es cubierto por AllianceIT. Como primeras recomendaciones, busca un lugar para rentar lo mas pronto posible.
-    * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines] (https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines](https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
+    * Las aerolineas mas comunes por las que hacen las reservaciones para viajes dentro de los Estados unidos son [Spirit Airlines](https://www.spirit.com) (esta es una de las peores aerlineas de bajo costo entonces al menos llevate un colchon para el cuello por que no es nada comodo) y [Southwest Airlines](https://www.southwest.com) (mucho mas decente aunque los asientos se escogen conformen entras al avion y hay alguni disponible, no puedes especificarlo en la reservación en linea)
     * Por lo general, las reservaciones son hechas en la cadena de hoteles de [Extended Stay America](https://www.extendedstayamerica.com/) y te piden los datos de tu tarjeta de débito/crédito por si hay algún daño al inmueble (no es posible fumar y la desventaja es que en algunos de estos hoteles se escucha rudio de los otros cuarto, if you know what I mean...)
     * Si necesitas mas tiempo para quedarte en el hotel puedes pedirle a Vamsi y Uttam que te extiendan la reservación, cualquier cargo indebido que hagan a tu tarjeta te lo ayudan a resolver
     * Procura no quedarte mas de una quincena en el hotel ya que de lo contrario, te empezaran a descontar de tu salario negociado la estancia, a menos de que compruebes que la disponibilidad de algun lugar donde viviras demorara para que te mudes
@@ -53,6 +53,8 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 * Aprovecha que estas en Pleasanton y sin "trabajo" y has tu examen escrito de tu licencia de manejo, has la cita en el. DMV desde que llegues por que tardan en promedio 3 semanas en tener citas disponibles
 * Si por alguna razón, tienes que regresar a México procura que no sea para algo urgente ni importante. Ya que de lo contrario, Uttam te pedira que te quedes alla y tomes las llamadas aunque no te pagara el salario temporal completo que te daba cuando buscabas proyecto en Pleasanton y en el peor de los casos, te dara las gracias
 * Para conseguir proyecto, todo depende de ti. Ya pasaste el primer filtro que es venir a los Estados Unidos, busca referencias con tus colegas, y nunca pares de aprender. El mercado de trabajo de nuestra área es demasiado cambiante y lo pero que puedes hacer es no actualizarte al dia
+* Para envíar dinero a México puedes usar servicios como [Remitly](https://www.remitly.com/us/es/mexico/) o [Western Union](https://www.westernunion.com/us/en/home.html)
+* En el caso de [Remitly](https://www.remitly.com/us/es/mexico/) trata de no envíar dinero a Elektra, por ventanilla envía a coppel pero ese coppel debe tener un BanCoppel para retirar, farmacias GDL, Aurrerá solo montos debajo de 5000 pesos porque luego no les alcanza. Si mandas 500 dólares no te cobran nada y trata de mandar utilizando la economica y no la express.
 
 ## Recursos
 
@@ -91,6 +93,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ### AWS
 
 * [Preguntas de entrevista](https://www.edureka.co/blog/interview-questions/top-aws-architect-interview-questions-2016/)
+* [AWS Cloud Practitione Trainig](https://www.aws.training/learningobject/curriculum?id=16357)
 
 ### SQL
 
