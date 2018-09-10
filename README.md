@@ -36,6 +36,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * Por lo general a tu PM, manager o leader es quien te indica como debes de llenar el reporte de actividades interno. Por lo general son 8 horas diarias que tu divides en tareas relacionadas con tu perfil de desarrollador
     * Adicionalmente, puede que el vendor te pida llenar un formato más para la consultora que maneja la cuenta del cliente. Pregunta directamente como le debes de entregar a ellos el reporte de actividades
     * Si no te piden nada de lo anterior, pregunta directamente a Uttam o Vamsi, para aclaración de dudas puesto que no siempre es igual en como manejan el reporta de actividades con cada vendor
+    * En este repo se incluye un archivo llamado SampleTimeSheetWeekly.docx que sirve como ejemplo del reporte que hay que llenar
 6. ¿Donde buscar un buen lugar para vivir? Intenta preguntar referencias por tus colegas de trabajo, adicionalmente, los siguientes sitios te pueden ayudar a tomar una decisión
     * [apartments.com](https://www.apartments.com/)
     * [trulia.com](https://www.trulia.com/)
@@ -55,6 +56,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 * Para conseguir proyecto, todo depende de ti. Ya pasaste el primer filtro que es venir a los Estados Unidos, busca referencias con tus colegas, y nunca pares de aprender. El mercado de trabajo de nuestra área es demasiado cambiante y lo pero que puedes hacer es no actualizarte al dia
 * Para envíar dinero a México puedes usar servicios como [Remitly](https://www.remitly.com/us/es/mexico/) o [Western Union](https://www.westernunion.com/us/en/home.html)
 * En el caso de [Remitly](https://www.remitly.com/us/es/mexico/) trata de no envíar dinero a Elektra, por ventanilla envía a coppel pero ese coppel debe tener un BanCoppel para retirar, farmacias GDL, Aurrerá solo montos debajo de 5000 pesos porque luego no les alcanza. Si mandas 500 dólares no te cobran nada y trata de mandar utilizando la economica y no la express.
+* [Aquí] un video explicando como funciona el seguro de gastos médicos.
 
 ## Recursos
 
