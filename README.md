@@ -56,7 +56,6 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 * Para conseguir proyecto, todo depende de ti. Ya pasaste el primer filtro que es venir a los Estados Unidos, busca referencias con tus colegas, y nunca pares de aprender. El mercado de trabajo de nuestra área es demasiado cambiante y lo pero que puedes hacer es no actualizarte al dia
 * Para envíar dinero a México puedes usar servicios como [Remitly](https://www.remitly.com/us/es/mexico/) o [Western Union](https://www.westernunion.com/us/en/home.html)
 * En el caso de [Remitly](https://www.remitly.com/us/es/mexico/) trata de no envíar dinero a Elektra, por ventanilla envía a coppel pero ese coppel debe tener un BanCoppel para retirar, farmacias GDL, Aurrerá solo montos debajo de 5000 pesos porque luego no les alcanza. Si mandas 500 dólares no te cobran nada y trata de mandar utilizando la economica y no la express.
-* [Aquí] un video explicando como funciona el seguro de gastos médicos.
 
 ## Recursos
 
@@ -65,6 +64,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 ### Varios
 
 * En el repo hay un archivo que se llama contactDetails.docx, conviene llenarlo y tenerlo a la mano, siempre te piden esos datos en los correos
+* [Aquí](https://www.youtube.com/watch?v=DBTmNm8D-84) un video explicando como funciona el seguro de gastos médicos.
 * En este [repo](https://github.com/kamranahmedse/developer-roadmap) se muestra un diagrama mantenido por la comunidad en Github en el cual se especifican las competencias actuales para ser un Front-end, Back-end Developer o DevOps (por lo general se mantiene actualizado)
 
 ### Conceptos generales
