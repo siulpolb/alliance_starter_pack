@@ -68,7 +68,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * En este [repo](https://github.com/kamranahmedse/developer-roadmap) se muestra un diagrama mantenido por la comunidad en Github en el cual se especifican las competencias actuales para ser un Front-end, Back-end Developer o DevOps (por lo general se mantiene actualizado)
 
 ### Conceptos generales
-* [Cursos] Pluralsight(https://pluralsight.com/) es un lugar genial de cursos. Cuesta 299 dlls al año, pero, si te registras en Visual Studio Dev Essentials (https://visualstudio.microsoft.com/es/dev-essentials/) te dan tres meses de suscripción gratis.
+* Pluralsight(https://pluralsight.com/) es un lugar genial de cursos. Cuesta 299 dlls al año, pero, si te registras en Visual Studio Dev Essentials (https://visualstudio.microsoft.com/es/dev-essentials/) te dan tres meses de suscripción gratis.
 * [Microservicios](https://martinfowler.com/articles/microservices.html)
 * [Unit tests vs. Integration tests](https://www.youtube.com/watch?v=vqAaMVoKz1c)
 * [REST API](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
