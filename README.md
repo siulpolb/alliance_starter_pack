@@ -41,6 +41,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * [apartments.com](https://www.apartments.com/)
     * [trulia.com](https://www.trulia.com/)
     * Redes sociales como grupos en Facebook o CraigList, aunque debes de ser cuidadoso en buscar una opción en estos lugares puesto que corres mas riesgo de que te defrauden con ofertas de cuartos, aunque tambien puedes encontrar algo decente.
+6. ¿Como puedo ver los recibos de mis quincenas? En el sitio de [Paychecks](https://paychecks.intuit.com/) de Intuit te puedes registrar de forma gratuita. Tienes que registrar tu perfil con una dirección email, tu número completo de SSN y el valor del último pago que recibiste en tu cuenta bancario. Para esto último, en cuanto recibas tu primera quincena, verifica en tu banca electrónica el monto del pago ya que ese es el que utilizaras para tu registro.
 
 ## Consejos
 
@@ -79,6 +80,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Data Structures - Youtube video series](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [Conceptos Basicos de Unit Testing con jUnit - Udemy](https://www.udemy.com/learn-by-example-junit/)
 * [Spring Tutorial series](https://www.baeldung.com/spring-tutorial)
+* [Tech Primes - Canal de Youtube con tutoriales de tendencias actuales, muy recomendado](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw/playlists)
 
 ### JavaScript
 * [37 Essential JavaScript Interview Questions from Toptal](https://www.toptal.com/javascript/interview-questions)
@@ -105,6 +107,11 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 
 * [Lo más básico](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Interactivo de branching](https://learngitbranching.js.org)
+
+### DevOps
+* [5 Critical DevOps Practices](https://blog.scalyr.com/2018/01/5-critical-devops-practices/)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - BOOK](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/ref=sr_1_1?ie=UTF8&qid=1524098675&sr=8-1&keywords=the+phoenix+project)
+* [The DevOps Handbook - BOOK](https://www.amazon.com.mx/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=CHDA3PAW0JG6F9E4YHHQ)
 
 
 ## Datos Culturales
