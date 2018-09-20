@@ -93,7 +93,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 
 ### Android
 * [Codepath - Android Guides](https://guides.codepath.com/android)
-
+* [Curso Android Avanzado | Universitat Politècnica de Valènci](https://www.youtube.com/playlist?list=PL6kQim6ljTJuAfKz4i5-tIxD9U3Es07Vr)
 ### AWS
 
 * [Preguntas de entrevista](https://www.edureka.co/blog/interview-questions/top-aws-architect-interview-questions-2016/)
