@@ -23,7 +23,7 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 
 1. Llenado de forma [W4](https://www.irs.gov/es/forms-pubs/about-form-w4). Esta forma te la piden para exención de retención de impuestos
 2. Retención de documentos. La consultora te pedira que le dejes los siguientes documentos en original, por lo que procura pedirles una copia para que tu las tengas por cualquier eventualidad futura
-    * Forma [I-94](https://i94.cbp.dhs.gov/I94/#/home). La imprimes desde internet. Contiene el registro de tu entrada al país. Verifica que tu nombre este correcto de acuerdo a los datos de tu pasaporte, puesto que esta forma es solicitada cuando vayas a tramitar el Real State o la Licencia de Manejo (DL)
+    * Forma [I-94](https://i94.cbp.dhs.gov/I94/#/home). La imprimes desde internet. Contiene el registro de tu entrada al país. Verifica que tu nombre este correcto de acuerdo a los datos de tu pasaporte, puesto que esta forma es solicitada cuando vayas a tramitar el Real State o la Licencia de Manejo (DL). Si por alguna razón tus datos se encuentran incorrectos, debes buscar una oficina del Customer Border Protection para que te orienten en la correción de estos datos. Mas información [aqui](https://www.immihelp.com/visas/correct-i94-errors.html)
     * Oferta laboral de AllianceIT. Son las cartas originales que te enviaron por correo a tu domicilio en México
     * Non-federal direct deposit enrollment request form [muestra](https://www.bankofamerica.com/content/documents/deposits/service/pdf/docrepo/DD_enrollment_form_Engl_Spa_final.pdf). Este formulario sirve para que AllianceIT te pueda realizar las transferencias a tu cuenta bancaria (no mas cheques sueltos)
 3. Si te asignaron proyecto en bay area(SF y alrededores), Uttam te dara posibilidad de quedarte en la casa de huespedes por un tiempo mas en lo que consigues un lugar para vivir que es de lo primero que tienes que resolver. Ten en cuenta que el costo de vida es ridiculamente alto y a pesar de que te pueden asignar un bono adicional para poder costear todos esos gastos, ten en cuenta que hay otros servicios que se pagan aparte como electricidad, agua, drenaje, internet, transporte, etc.
@@ -41,7 +41,13 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
     * [apartments.com](https://www.apartments.com/)
     * [trulia.com](https://www.trulia.com/)
     * Redes sociales como grupos en Facebook o CraigList, aunque debes de ser cuidadoso en buscar una opción en estos lugares puesto que corres mas riesgo de que te defrauden con ofertas de cuartos, aunque tambien puedes encontrar algo decente.
-6. ¿Como puedo ver los recibos de mis quincenas? En el sitio de [Paychecks](https://paychecks.intuit.com/) de Intuit te puedes registrar de forma gratuita. Tienes que registrar tu perfil con una dirección email, tu número completo de SSN y el valor del último pago que recibiste en tu cuenta bancario. Para esto último, en cuanto recibas tu primera quincena, verifica en tu banca electrónica el monto del pago ya que ese es el que utilizaras para tu registro.
+7. ¿Como puedo ver los recibos de mis quincenas? En el sitio de [Paychecks](https://paychecks.intuit.com/) de Intuit te puedes registrar de forma gratuita. Tienes que registrar tu perfil con una dirección email, tu número completo de SSN y el valor del último pago que recibiste en tu cuenta bancario. Para esto último, en cuanto recibas tu primera quincena, verifica en tu banca electrónica el monto del pago ya que ese es el que utilizaras para tu registro.
+8. ¿Donde puedo comprar muebles y articulos para el hogar? A continuación se presenta un listado de tienas y sitios web donde puedes encontrar cosas que requieras
+    * [Walmart](https://www.walmart.com/) - Tienda multinacional de retail donde puedes encontrar cosas a buen precio
+    * [Target](https://www.target.com/) - Tienda departamental donde venden gran cantindad de articulos personales y para el hogar
+    * [Amazon](https://www.amazon.com/) - Emporio de Jeff Bezos, todo lo que necesites te lo pueden vender y llevar a la puerta de tu casa. Considera subscribirte al servicio de [Prime](https://www.amazon.com/amazonprime) para aprovechar excelentes ofertas y descuentos en productos y servicios
+    * [Ikea](https://www.ikea.com/) - Tienda de muebles de origen sueco, puedes encontrar muebles interesantes a buen precio y facil de ensamblar
+    * [OfferUp](https://offerup.com/) - Sitio web para comprar articulos de segunda mano o usados, tiene la opción para pasar a recogerlos o solicitar envio. Verifica los lineamientos y foros para evitar posibles fraudes
 
 ## Consejos
 
@@ -56,7 +62,8 @@ Como tu todos hemos empezado sin tener mucha idea de como estan las cosas aquí,
 * Si por alguna razón, tienes que regresar a México procura que no sea para algo urgente ni importante. Ya que de lo contrario, Uttam te pedira que te quedes alla y tomes las llamadas aunque no te pagara el salario temporal completo que te daba cuando buscabas proyecto en Pleasanton y en el peor de los casos, te dara las gracias
 * Para conseguir proyecto, todo depende de ti. Ya pasaste el primer filtro que es venir a los Estados Unidos, busca referencias con tus colegas, y nunca pares de aprender. El mercado de trabajo de nuestra área es demasiado cambiante y lo pero que puedes hacer es no actualizarte al dia
 * Para envíar dinero a México puedes usar servicios como [Remitly](https://www.remitly.com/us/es/mexico/) o [Western Union](https://www.westernunion.com/us/en/home.html)
-* En el caso de [Remitly](https://www.remitly.com/us/es/mexico/) trata de no envíar dinero a Elektra, por ventanilla envía a coppel pero ese coppel debe tener un BanCoppel para retirar, farmacias GDL, Aurrerá solo montos debajo de 5000 pesos porque luego no les alcanza. Si mandas 500 dólares no te cobran nada y trata de mandar utilizando la economica y no la express.
+* En el caso de [Remitly](https://www.remitly.com/us/es/mexico/) trata de no envíar dinero a Elektra, por ventanilla envía a coppel pero ese coppel debe tener un BanCoppel para retirar, farmacias GDL, Aurrerá solo montos debajo de 5000 pesos porque luego no les alcanza. Si mandas 500 dólares no te cobran nada y trata de mandar utilizando la economica y no la express
+* Es altamente indispensable registrar tus datos y de tu familia en el Sistema de Registro para Mexicanos en el Exterior [SIRME](https://sirme.sre.gob.mx/), de igual forma ten a la mano el contacto del consulado mas cercano al lugar donde vives por si alguna ves requires apoyo consular. El listado esta en [esta página](https://directorio.sre.gob.mx/index.php/consulados-de-mexico-en-el-exterior) 
 
 ## Recursos
 
@@ -113,6 +120,9 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - BOOK](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/ref=sr_1_1?ie=UTF8&qid=1524098675&sr=8-1&keywords=the+phoenix+project)
 * [The DevOps Handbook - BOOK](https://www.amazon.com.mx/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=CHDA3PAW0JG6F9E4YHHQ)
 
+### Kubernetes
+* [Official documentation](https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational)
+* [Workshop Intro - from Topple](https://github.com/gotopple/k8s-for-users-intro)
 
 ## Datos Culturales
 
