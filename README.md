@@ -133,3 +133,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * Procura no decir la palabra 'negro' fuera de un contexto donde estes con latinos o con gente de confianza. La palabra [nigga](https://www.urbandictionary.com/define.php?term=nigga) o 'n'-word (que suena bastante parecido a negro) es una palabra que ofende bastante y hasta te pueden llegar a demandar por que es considerada una expresión racista
 * Saludar de beso a las mujeres puede incomodarles puesto que no son tan abiertas como lo somos en latinoamerica
 * Decir gracias debe de ser conciso y corto, otra manera puede ser interpretado como sarcasmo y hasta lo puede tomar como molestia [referencia aqui](https://youtu.be/MHWbqZbd98k)
+
+## TN Visa/Status Info
+* Recuerda que Visa y Status son dos cosas diferentes para USA, una vez dentro tu visa no es tan importante pero tu i94 lo es, traelo impreso contigo en todo momento de preferencia.
+* Puedes estar en el pais con Visa expirada pero i94 valido. Incluso puedes salir y entrar de USA siempre y cuando tu viaje cumpla con ciertas caracteristicas, [referencia aqui](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-expiration-date/auto-revalidate.html)
