@@ -81,6 +81,27 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Microservicios](https://martinfowler.com/articles/microservices.html)
 * [Unit tests vs. Integration tests](https://www.youtube.com/watch?v=vqAaMVoKz1c)
 * [REST API](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
+* [Ciencias Computacionales](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
+* [Developer RoadMap 2020](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
+* [Universidad para entrevistas de codigo](https://www.tutorialspoint.com/restful/restful_interview_questions.htm)
+
+### System Design
+* [Breakdown of Uber System Design](https://youtu.be/umWABit-wbk)
+* [Breakdown of Twitter System Design](https://youtu.be/wYk0xPP_P_8)
+* [Breakdown of Netflix System Design](https://youtu.be/psQzyFfsUGU)
+* [Basics of System Design: Horizontal vs Vertical Scale](https://youtu.be/xpDnVSmNFX0)
+* [Popular Interview Question: Design a Parking Lot](https://youtu.be/DSGsa0pu8-k)
+* [5 Tips for System Design](https://youtu.be/CtmBGH8MkX4)
+* [General Amazon SDE II Interview](https://youtu.be/ywiPBa8UQ5M)
+
+### Coding
+* [Heap](https://youtu.be/HqPJF2L5h9U)
+* [General Questions](https://youtu.be/il_t1WVLNxk)
+* [Depth first traversal](https://youtu.be/Y40bRyPQQr0)
+* [Battleship](https://youtu.be/wBG6078g1gE)
+* [Word Search](https://youtu.be/vYYNp0Jrdv0)
+* [Problem Solving](https://youtu.be/UmULDpfqNN4)
+* [Package Manager](https://youtu.be/rGaJgYS456c)
 
 ### Java
 
